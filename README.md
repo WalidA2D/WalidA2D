@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WalidA2D
-- 👀 I’m interested in  le développement informatique et  la musculation
-- 🌱 I’m currently learning  à développer sur Angular
+- 👀 I'm interested in computer development 
+- 🌱 I'm currently learning how to develop on Angular
 
 <!---
 WalidA2D/WalidA2D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
